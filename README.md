@@ -1,4 +1,4 @@
-# Javascript Foundations.
+# Javascript Foundations
 
 ## How to use this repo
 
